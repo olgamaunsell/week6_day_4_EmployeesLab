@@ -1,4 +1,4 @@
-import Staff.Director;
+import Management.Director;
 import org.junit.Before;
 import org.junit.Test;
 
